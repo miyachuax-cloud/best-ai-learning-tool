@@ -1,4 +1,5 @@
-# 1. [GoMim Math AI Solver](https://gomim.com/)
+# 1. GoMim Math AI Solver
+[GoMim MathGpt](https://gomim.com/)
 
 ## Key Features
 
