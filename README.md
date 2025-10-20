@@ -1,4 +1,4 @@
-# 1. GoMim Math AI Solver
+# 1. AI Math Solver
 [GoMim Math AI](https://gomim.com/)
 
 ## Key Features
@@ -17,3 +17,5 @@
 [StudyX](https://studyx.ai/)
 
 
+# 2. Question AI
+[Question AI](https://questionai.info/)
