@@ -1,5 +1,5 @@
 # 1. GoMim Math AI Solver
-[GoMim Mathgpt](https://gomim.com/)
+[GoMim Math AI](https://gomim.com/)
 
 ## Key Features
 
@@ -11,3 +11,9 @@
 - No downloads needed, it works seamlessly on all browsers and devices. Learners can even upload the photo from phone to computer easily.
 - **Advanced AI Calculator**:
 - Supports a wide range of topics, from algebra and geometry to calculus and statistics.
+
+
+# 2. GoMim Math AI Solver
+[StudyX](https://studyx.ai/)
+
+
