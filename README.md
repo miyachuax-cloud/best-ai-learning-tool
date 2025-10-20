@@ -13,7 +13,7 @@
 - Supports a wide range of topics, from algebra and geometry to calculus and statistics.
 
 
-# 2. GoMim Math AI Solver
+# 2. StudyX
 [StudyX](https://studyx.ai/)
 
 
